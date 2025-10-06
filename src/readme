@@ -1,0 +1,19 @@
+# React Password Generator
+
+A simple React.js application that generates secure, customizable passwords. Users can select password length and character types including numbers, letters, and symbols.
+
+## Features
+
+- Adjustable password length
+- Toggle uppercase, lowercase, numbers, and symbols
+- Copy password with a single click
+
+## Setup
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start` to launch the app
+
+## Usage
+
+Open the app in your browser, adjust your password options, and click generate.
